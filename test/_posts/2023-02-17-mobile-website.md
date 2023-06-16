@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Nobile Website Development"
+title:  "Mobile Website Development"
 tags:
   - Development
 ---
@@ -17,9 +17,8 @@ $ nano /var/www/html/index.html
 
 Once inside of nano, I typed the following text and succesfully created a simple web server on a bus ride home!
 
-<a href="/images/mobileshell.png" target="_blank"><img src="/images/mobileshell.png" width="300"></a>
+<img src="{{ site.url }}{{ site.baseurl }}/images/mobileshell.png" alt="" class="full" style="width:450px;">
 
-
->Here is the code without it being cut off:
+>Here is the code without being cut off:
 >
-><a href="/images/mobilehtmlcode.png" target="_blank"><img src="/images/mobilehtmlcode.png" width="600"></a>
+><img src="{{ site.url }}{{ site.baseurl }}/images/mobilehtmlcode.png" alt="" class="full">

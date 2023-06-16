@@ -20,4 +20,4 @@ Overall I am very proud that our first project was a success and I am excited to
 
 >Here is some of the lab material our students used:
 >
-><img src="{{ site.url }}{{ site.baseurl }}/assets/images/adlab.jpg" alt="" class="full">
+><img src="{{ site.url }}{{ site.baseurl }}/images/adlab.jpg" alt="" class="full">
