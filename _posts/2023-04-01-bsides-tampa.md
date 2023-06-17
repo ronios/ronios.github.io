@@ -16,8 +16,8 @@ Finally, I was able to have my resume reviewed by a few professionals and was gi
 
 >Here are just a few images from the event!
 >
-><input type="image" src="{{ site.baseurl }}/images/BSides.jpg" width="750">
+><img src="{{ site.url }}{{ site.baseurl }}/images/BSides.jpg" alt="" class="full">
 
-><input type="image" src="{{ site.baseurl }}/images/BSides1.jpg" width="750">
+><img src="{{ site.url }}{{ site.baseurl }}/images/BSides1.jpg" alt="" class="full">
 
-><input type="image" src="{{ site.baseurl }}/images/BSides2.jpg" width="750">
+><img src="{{ site.url }}{{ site.baseurl }}/images/BSides2.jpg" alt="" class="full">

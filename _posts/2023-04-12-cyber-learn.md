@@ -18,4 +18,4 @@ The Nice Challenge [Boot Camp](https://pepsec.com/cyber-learn-2023) mentioned in
 
 >Here is an image of the event!
 >
-><input type="image" src="{{ site.baseurl }}/images/CyberLearn2023.jpg" width="750">
+><img src="{{ site.url }}{{ site.baseurl }}/images/CyberLearn2023.jpg" alt="" class="full">
