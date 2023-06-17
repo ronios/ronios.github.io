@@ -1,7 +1,8 @@
 ---
-title: "Archive Layout with Content"
+title: "Markdown Cheatsheet"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /markdown-cheatsheet/
+toc: true
 ---
 
 A variety of common markup showing how the theme styles them.

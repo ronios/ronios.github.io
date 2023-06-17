@@ -2,6 +2,7 @@
 title: "Markdown Cheatsheet"
 layout: archive
 permalink: /markdown-cheatsheet/
+toc: true
 ---
 
 A variety of common markup showing how the theme styles them.
