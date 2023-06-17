@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "Nobile Website Development"
+title:  "Mobile Website Development"
 tags:
   - Development
 ---
-### How I did it
+
 After setting up my Proxmox Based home network lab with Cloudflare Tunnels, I decided to, out of boredom, see if I can code a website from an ssh session on my phone during my bus ride home!
 
 Firstly, I connected to my ssh shell using Cloudflare's Tunnel technology. This feature requires a domain, but I had a few from [Freenom](https://freenom.com), so I was good with that. Through my phone I connected to Cloudflare Tunnels under the domain " sshkali.domain.com " (not mine for privacy reasons). Under this website I had access to a mobile supported shell which ran great. NOTE: to access this website, I required Cloudflare to use email 2FA, meaning I didn't have to worry about any intruders.

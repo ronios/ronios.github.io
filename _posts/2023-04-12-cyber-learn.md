@@ -4,7 +4,7 @@ title:  "Cyber Learn 2023"
 tags:
   - Lab
 ---
-### My Experience
+
 I had an awesome time at Cyber Launch's Cybersecurity conference/competition held at the Bryan Glazer Family JCC. The conference hosted dozens of schools and even more teams of Cybersecurity students from around the Greater Tampa Bay Area. Cyber Launch offered teams of ten the opportunity to perform highly invigorating Cybersecurity challenges.
 
 One such challenge tasked us with creating a detailed executive summary of a simulated incident for our fake company. This incident was related to the vulnerability CVE 2001-0886, and the many vectors of attack the threat actor took on our company. Despite being relatively new to these concepts, we were extremely successful in terms of our communication and overall creation of the executive summary!

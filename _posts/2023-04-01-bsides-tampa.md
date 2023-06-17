@@ -4,7 +4,7 @@ title:  "BSides Tampa 2023"
 tags:
   - Conventions
 ---
-### My First Convention
+
 As this is the first Cybersecurity convention I have attended, I am not quite sure what to base my opinions on when evaluating BSides Tampa. However, I can confidently say that this was an amazing experience, offering educational and entertaining knowledge into the professional world of Cybersecurity.
 
 ### The BSides Experience
