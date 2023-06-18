@@ -110,7 +110,7 @@ author:
   location         : "Tampa, FL"
   email            :
   links:
-    - label: "Your Website"
+    - label: "pepsec.com"
       icon: "fas fa-fw fa-link"
       url: "https://pepsec.com"
     - label: "Twitter"
