@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Tony"
   avatar           : "/images/pfp.jpg"
-  bio              : "Cybersecurity Student, Aspriring Professional"
+  bio              : "Cybersecurity Student, Aspiring Professional"
   location         : "Tampa, FL"
   email            :
   links:
@@ -138,6 +138,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/pepsec/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/@peppersecurity"
 
       # url:
 
