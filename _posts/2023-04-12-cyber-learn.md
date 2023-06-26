@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Cyber Learn 2023"
+title:  "Cyber Launch 2023"
 tags:
-  - Lab
+  - Conventions
 ---
 
 I had an awesome time at Cyber Launch's Cybersecurity conference/competition held at the Bryan Glazer Family JCC. The conference hosted dozens of schools and even more teams of Cybersecurity students from around the Greater Tampa Bay Area. Cyber Launch offered teams of ten the opportunity to perform highly invigorating Cybersecurity challenges.

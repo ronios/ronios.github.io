@@ -5,9 +5,9 @@ tags:
   - Lab
 ---
 
-In our Cybersecurity program, our students crave hands-on activities. As a result, Eric J and I decided to create an Active Directory lab environment using the Proxmox framework to develop multiple Domain Controllers and Workstations.
+In our Cybersecurity program, our students crave hands-on activities. As a result, [Eric J](https://35th.io) and I decided to design and curate an Active Directory lab environment using our Proxmox framework to develop multiple Domain Controllers and Workstations.
 
-These segmented Virtual Machines can be used to teach our students the technicalities that go into Active Directory and Group Policy. The Virtual Machines can be spun up and utilized almost instantly, thus making it very easy to provide resources for our students.
+These segmented Virtual Machines can be used to teach our students the technicalities that go into Active Directory and Group Policy creation. The Virtual Machines can be spun up and utilized almost instantly, thus making it very easy to provide resources for our students.
 
 ### My Methodology
 
