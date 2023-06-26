@@ -1,8 +1,10 @@
 ---
 layout: single
+title: About Me
 permalink: /about/
-title: "About me"
-last_modified_at: 2023-06-25
+last_modified_at: 2023-04-02
+sidebar:
+  nav: "docs"
 ---
 
 Hello! I'm Tony and my passion lies in all things computing. In particular, my main focus of study is in Cybersecurity and the technologies that are associated with this expansive and diverse field. I've been involved in this field for years, starting in High School. While I've had some involvement in the past, I regret not dedicating myself fully to the craft in the past.

@@ -1,14 +1,12 @@
-# main links
+# main links links
 main:
-  - title: "Posts"
-    url: /
-  - title: "Gallery"
-    url: /gallery/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Posts"
+    url: /
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/
+  - title: "Gallery"
+    url: /gallery/
