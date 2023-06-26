@@ -1,8 +1,8 @@
 ---
+layout: single
 permalink: /about/
 title: "About me"
-last_modified_at: 2023-04-02
-layout: single
+last_modified_at: 2023-06-25
 ---
 
 Hello! I'm Tony and my passion lies in all things computing. In particular, my main focus of study is in Cybersecurity and the technologies that are associated with this expansive and diverse field. I've been involved in this field for years, starting in High School. While I've had some involvement in the past, I regret not dedicating myself fully to the craft in the past.
@@ -28,16 +28,24 @@ With that out of the way, I am a 17 year old with a strong determination to lear
 
 As an active member of my Cybersecurity program, I often find myself in leadership positions, collaborating closely with my teammates and classmates. Effective communication is a critical component of any successful endeavor, especially in the field of Cybersecurity. Furthermore, I am enthusiastic about the upcoming work and numerous projects I have planned for my Cybersecurity career!
 
-### Current Goals
+### My Hands-on Technical Skills/ Projects
+---
+
+
+
+
+### My Current Goals
 ---
 
 Current Certifications/ Courses in The Works:
 
 - TCM Security - PEH, PWAS
 - CompTIA - Network +
+- Google Cybersecurity Professional
+- Qualys - Vulnerability Management, PCI Compliance, Endpoint Detection and Responde, etc
 - C++ Institute - CLA
 - TryHackMe - PenTest+, Jr Pen-Tester, Red Teaming, Offensive Pentesting, Attacking and Defending AWS
-- Microsoft - Azure Data Fundamentals
+- Microsoft - Azure Data Fundamentals, Security Engineer Associate
 
 ### My Science
 ---
