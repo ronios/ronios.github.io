@@ -28,11 +28,6 @@ With that out of the way, I am a 17 year old with a strong determination to lear
 
 As an active member of my Cybersecurity program, I often find myself in leadership positions, collaborating closely with my teammates and classmates. Effective communication is a critical component of any successful endeavor, especially in the field of Cybersecurity. Furthermore, I am enthusiastic about the upcoming work and numerous projects I have planned for my Cybersecurity career!
 
-### My Hands-on Technical Skills/ Projects
----
-
-
-
 
 ### My Current Goals
 ---
