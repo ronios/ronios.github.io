@@ -79,11 +79,13 @@ Students need to learn with lab environments, and our network allows that! The o
 
 Some of the future solutions and labs include:
 - Snort SIEM
+- Possible Splunk/ ELK SIEM Solution
 - Remote Desktop Connection Manager
 - SQL Database Website Backend for testing
 - Improved Layer 2 -> 3 Network redundancy and speed
 - Wireshark/ Switch Port Mirroring
 - Open-Source SNMP Solution
+- Hyper-V & VMWare ESXi Virtualization Solution
 - Locally hosted Steam-cache
 - Locally hosted Repository Cache
 - Simulated Ethical Hacking lab

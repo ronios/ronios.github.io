@@ -60,7 +60,7 @@ Our uses for Active Directory include:
 
 #### Logging Solutions
 
-There are many Open-Source logging solutions that work efficiently for said network, however, what worked the best for us was Graylog's solution. Graylog provides us a great central management for system logging and notification management.
+There are many Open-Source logging solutions that work efficiently for a network, however, what worked the best for us was Graylog's solution. Graylog provides us a great central management for system logging and notification management.
 
 Our uses for Graylog include:
 - Proxmox login details
@@ -75,21 +75,21 @@ Our uses for Graylog include:
 
 Due to our limited timeframe, we couldn't implement all of the solutions we wanted to, so we're saving some of these for the next, and last, year in our Cybersecurity program. With my specially crafted schedule, I'll finally have enough time to develop many more solutions, learning materials, and labs for our program.
 
-Students need to learn with lab environments, and our network allows that! The only catch is the limited people-power. My partner and I are only two people, and we shed blood, sweat, and tears to learn as much as we could with our limited time! With the knowledge we have now, I am hoping we can get more engineers to help us and create new ideas for the program.
-
-I often find that high school students are limited in their potential and go through a burnout phase due to overworking or just plain boredom.
+Students need to learn with lab environments, and our network allows that! The only catch is the limited people-power. My partner and I are only two people, and we shed blood, sweat, and tears to learn as much as we could with our limited time! With the knowledge we have now, I am hoping we can get more student engineers to help us and create new ideas for the program.
 
 Some of the future solutions and labs include:
 - Snort SIEM
+- Possible Splunk/ ELK SIEM Solution
 - Remote Desktop Connection Manager
-- Simulated Ethical Hacking lab
-- Red Team vs Blue Team lab
 - SQL Database Website Backend for testing
 - Improved Layer 2 -> 3 Network redundancy and speed
 - Wireshark/ Switch Port Mirroring
 - Open-Source SNMP Solution
+- Hyper-V & VMWare ESXi Virtualization Solution
 - Locally hosted Steam-cache
 - Locally hosted Repository Cache
+- Simulated Ethical Hacking lab
+- Red Team vs Blue Team lab
 - Much, much, more
 
 >Here are images of the network!
