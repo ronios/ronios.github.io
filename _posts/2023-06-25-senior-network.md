@@ -49,7 +49,7 @@ Our uses for TrueNAS include:
 
 #### Active Directory Solution
 
-Just about every local network environment contains an Active Directory, And ours does too! Utilizing Windows Server 2022, my fellow engineer and I specially configured the Active Directory for our 30 student Desktops.
+Just about every local network environment contains an Active Directory, and ours does too! Utilizing Windows Server 2022, my fellow engineer and I specially configured the Active Directory for our 30 student Desktops.
 
 Our uses for Active Directory include:
 - User and Group management 
@@ -73,7 +73,7 @@ Our uses for Graylog include:
 ### Future Plans for the Senior Network 
 ---
 
-Due to our limited timeframe, we couldn't implement all of the solutions we wanted to, so we're saving some of these for the next, and last, year in our Cybersecurity program. With my specially crafted schedule, I'll finally have enough time to develop many more solutions, learning materials, and labs for our program.
+Due to our limited timeframe, we couldn't implement all of the solutions we wanted to, so we're saving some of these for the next, and last year in our Cybersecurity program. With my specially crafted schedule, I'll finally have enough time to develop many more solutions, learning materials, and labs for our program.
 
 Students need to learn with lab environments, and our network allows that! The only catch is the limited people-power. My partner and I are only two people, and we shed blood, sweat, and tears to learn as much as we could with our limited time! With the knowledge we have now, I am hoping we can get more student engineers to help us and create new ideas for the program.
 
@@ -82,12 +82,12 @@ Some of the future solutions and labs include:
 - Possible Splunk/ ELK SIEM Solution
 - Remote Desktop Connection Manager
 - SQL Database Website Backend for testing
-- Improved Layer 2 -> 3 Network redundancy and speed
-- Wireshark/ Switch Port Mirroring
+- Improved Layer 2 & 3 Network redundancy and speed
+- Switch Port Mirroring w/ Wireshark Host
 - Open-Source SNMP Solution
 - Hyper-V & VMWare ESXi Virtualization Solution
 - Locally hosted Steam-cache
-- Locally hosted Repository Cache
+- Locally hosted Linux Repository Cache
 - Simulated Ethical Hacking lab
 - Red Team vs Blue Team lab
 - Much, much, more
