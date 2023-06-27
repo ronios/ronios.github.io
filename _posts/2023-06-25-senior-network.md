@@ -21,7 +21,7 @@ Some of the software we used to troubleshoot and pen-test include:
 - Nessus, detailed scans for our solutions
 - Kerbrute, Active Directory kerberos enumeration and testing
 - Enum4Linux, enumerating SMB information for our NAS solution
-- Wireshark, Discovering device broadcasts and verifying IP address/ DNS queries and requests
+- Wireshark, discovering device broadcasts and verifying IP address/ DNS queries and requests
 
 ### Detailed Information of the Solutions
 ---

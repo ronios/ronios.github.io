@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/
+
+
+# sidebar navigation list sample
