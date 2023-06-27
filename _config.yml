@@ -78,7 +78,6 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
-
 # Social Sharing
 twitter:
   username               : "pepsecurity"
@@ -93,7 +92,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
@@ -105,13 +103,16 @@ analytics:
 author:
   name             : "Tony"
   avatar           : "/images/pfp.jpg"
-  bio              : "Cybersecurity Student, Aspiring Professional"
+  bio              : "Cybersecurity Student | Self Learner | Aspiring Professional"
   location         : "Tampa, FL"
-  email            : tony.iso@proton.me
+  email            :
   links:
     - label: "pepsec.com"
       icon: "fas fa-fw fa-link"
       url: "https://pepsec.com"
+    - label: "tony.iso@proton.me"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tony.iso@proton.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/pepsecurity"
